@@ -1,37 +1,22 @@
 /* reset */
 
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    /* debug */
+    
     border: 1px solid black;
 }
 
 /* general */
 
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
 img{
     width: 100%;
     display: block;
 }
-
-li{
-    list-style: none;
+#avatar{
+    max-width: 100%;
 }
-
-a{
-    text-decoration: none;
-}
-
-/* header */
-
-
-
-
-
-/* main */
-
-
-
-
-/* footer */
