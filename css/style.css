@@ -1,9 +1,3 @@
-/* reset */
-
-*{
-    
-    border: 1px solid black;
-}
 
 /* general */
 
@@ -19,4 +13,16 @@ img{
 }
 #avatar{
     max-width: 100%;
+}
+/* #box-img{
+    width: 50%;
+} */
+#mex{
+    min-height: 100px;
+}
+footer > * {
+    font-size: 10px;
+}
+footer{
+    margin-top: 30px;
 }
