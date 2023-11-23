@@ -3,6 +3,9 @@
 
 a{
     text-decoration: none;
+    background-color: #2C3E50;
+    color: white;
+    padding: 0;
 }
 li{
     list-style: none;
@@ -25,4 +28,18 @@ footer > * {
 }
 footer{
     margin-top: 30px;
+}
+.green{
+    background-color: #1ABC9C;
+    color: white;
+}
+header,
+footer{
+    background-color: #2C3E50;
+    color: white;
+}
+
+#bottom-footer{
+    background-color: black;
+    color: white;
 }
